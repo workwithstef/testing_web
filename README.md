@@ -5,7 +5,10 @@
 
 ## this repo covers the following
 - Github
-- Github
+- Git
 - Bash (scripting language used by command line terminals)
 - README files
 - MarkDown (.md files)
+
+
+- Git is version control
