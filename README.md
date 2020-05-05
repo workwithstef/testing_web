@@ -12,3 +12,7 @@
 
 
 - Git is version control
+
+lets just see if all this gets updated
+and this
+and this and this
